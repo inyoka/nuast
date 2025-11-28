@@ -7,3 +7,5 @@ The goal of this project is to <state the purpose of the project> and to work to
 using professional software development practices.
 
 Flashcards will be saved in json format with the extension ".nuast"
+
+Mathew is sigma
