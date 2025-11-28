@@ -1,3 +1,7 @@
 Version 0.1:
 Created an object to manage stages(lives) and returning the corresponding output for the user
 Created a rough structure to help programming
+
+Version 0.2:
+Fixed an issue with the StageOutput
+Added a game.py which contains code to manage game actions and progression
