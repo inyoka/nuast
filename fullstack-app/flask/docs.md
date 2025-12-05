@@ -26,10 +26,11 @@
 ```
 
 ## `POST /update/{id}`
+`Content-Type: application/json`
 `body`:
 ```json
 {
-    "uid": int,             // required
+    "id": int,              // required
     "username": "string",   // optional
     "email": "string"       // optional
 }
