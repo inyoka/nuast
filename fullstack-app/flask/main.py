@@ -26,6 +26,13 @@ def read_id(id):
     else:
         return redirect("/404")
 
+@app.route("/list")
+def list_users():
+    with open(FILEPATH, "r") as file:
+        userData = json.load(file)
+
+    return userData
+
 def main():
     app.run(debug=True)
 
