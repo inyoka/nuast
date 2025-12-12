@@ -7,8 +7,3 @@ The goal of this project is to <state the purpose of the project> and to work to
 using professional software development practices.
 
 Flashcards will be saved in json format with the extension ".nuast"
-
-Mega Matthew is sigma
-Leo Paderi is goated
-
-Lukas Baker smells lol
