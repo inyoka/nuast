@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="NUAST Computer Science logo">
+  <!--
+    NUAST CS Logo Placeholder
+    Replace this file with your school's actual logo.
+    Recommended: PNG or SVG, at least 96×96 px.
+  -->
+  <rect width="48" height="48" rx="10" fill="#1e6bb8"/>
+  <!-- Code-bracket icon -->
+  <polyline points="18,32 10,24 18,16" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="30,16 38,24 30,32" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="26" y1="13" x2="22" y2="35" stroke="#f5a623" stroke-width="3" stroke-linecap="round"/>
+</svg>
